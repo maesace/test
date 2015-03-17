@@ -1,0 +1,5 @@
+body{
+background-color: yellow;
+color: blue;
+/*font-family: "Comic Sans MS", cursive, sans-serif;*/
+}
